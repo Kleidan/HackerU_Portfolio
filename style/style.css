@@ -28,7 +28,6 @@ img {
   width: 100%;
 }
 
-
 li {
   list-style-type: none;
 }
@@ -67,7 +66,7 @@ p {
 }
 
 
-#fancy {
+.fancy {
   font-family: 'Dancing Script', cursive;
   font-size: var(--fs-lg);
   font-family: 700;

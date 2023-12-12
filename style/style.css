@@ -256,7 +256,7 @@ img[alt="download"] {
   }
 }
 
-/* Gallery */
+/* ----------- Gallery ----------------- */
 .works {
   padding-top: 50px;
   padding-bottom: 100px;
@@ -273,7 +273,7 @@ img[alt="download"] {
   text-align: center;
 }
 
-/* projects cards */
+/* -------------- projects cards ------------- */
 
 .cards {
   display: flex;
@@ -285,6 +285,15 @@ img[alt="download"] {
 }
 
 .card {
+  max-width: 350px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 8px 15px 5px darkgray;
+  overflow: hidden;
+  transition: scale 1s;
+}
+
+.app-card {
   max-width: 350px;
   background-color: white;
   border-radius: 10px;
@@ -314,7 +323,8 @@ img[alt="download"] {
   background-color: #7ce7fa;
 }
 
-/* contact */
+
+/* ---------------- contact -------------- */
 
 .contact {
   padding: 3rem 5px;
@@ -364,7 +374,7 @@ button[type="submit"]:hover {
   background-color: #7ce7fa;
 }
 
-/* footer */
+/* ------------- footer ------------------ */
 
 footer {
   background-color: rgb(65, 65, 65);

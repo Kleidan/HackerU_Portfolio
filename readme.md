@@ -73,3 +73,48 @@ Javascript: JavaScript was utilised in the applications at the gallary. it was u
 
 ### Apps:
 
+1. Login Page and Card
+  
+  This project was part of a class project where we built a login and a cart demo. we created differend users with different permissions (you can see them in the code itself). there are several users who can log in by using a madeup email addresses:
+  user1@gmail.com
+  user2@gmail.com
+  user3@gmail.com
+  user4@gmail.com
+  user5@gmail.com 
+
+  the password to all of them is: 
+  Abc123
+
+  The project was built using HTML, CSS and JavaScript
+
+2. Tic Tac Toe
+  
+  This project is a demo of the classic Tic Tac Toe game. This game is for two people, the one who plays first is the "X's" and the second player is the "O's". the goal of the game is to create a steak of three of your shapes.
+
+  The project was built using HTML, CSS and JavaScript
+
+3. Payment App
+
+  This project is a demo for a Credit Card Payment page. it should recognise different cards and update the logo.
+  you should also get an error if you enter a date in the past in the expiration field.
+
+  The project was built using HTML, CSS and JavaScript
+
+4. To Do App
+   
+   This project is a simple to do list, the list will organize alphabetically. new to do's will appear at the top, done to do's will appear at the bottom.
+
+  The project was built using HTML, CSS and JavaScript
+
+5. Snake Game
+
+  The classical Snake Game. the game should start as soon as you open the page itself. use the arrow buttons on your keyboard to control the snake. the goal is to eat the red dot's on the screen, while evading the wall and the body of the snake.
+  This project was made with javascript using the HTMl canvas tag.
+
+  The project was built using HTML, CSS and JavaScript
+
+6. Page Builder
+
+  A simple page builder, you can choose what tag to append to the display, how to style it and if there is some text inside including how this tag is styled.
+
+  The project was built using HTML, CSS and JavaScript

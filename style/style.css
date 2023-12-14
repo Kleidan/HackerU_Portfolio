@@ -292,14 +292,17 @@ img[alt="download"] {
   transition: scale 1s;
 }
 
-/* .app-card {
+.app-card {
   max-width: 350px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 3px 8px 15px 5px darkgray;
   overflow: hidden;
   transition: scale 1s;
-} */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
 .card:hover {
   scale: 1.05;
